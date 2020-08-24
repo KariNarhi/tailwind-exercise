@@ -1,0 +1,14 @@
+{
+  "name": "tailwindcss-exercise",
+  "version": "1.0.0",
+  "description": "Simple Tailwind CSS exercise",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o dist/style.css"
+  },
+  "author": "Kari Närhi",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^1.7.3"
+  }
+}
